@@ -6,8 +6,8 @@ hello
 jj
 
 i am  yy
-
+<<<<<<< Updated upstream
 add by justin
+=======
 
-
-你的123213 没有看见了，是你删掉了？还是被我干掉了
+>>>>>>> Stashed changes
