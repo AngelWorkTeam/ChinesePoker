@@ -13,6 +13,7 @@
 - (void)dealloc
 {
     NSLog(@"YJDestory's dealloc is called");
+//test
     [super dealloc];
 }
 
